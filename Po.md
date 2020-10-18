@@ -1,5 +1,4 @@
 # project-75
-#we can run camera through our webcam using python
 import cv2
 import numpy as np
 

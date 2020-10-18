@@ -1,4 +1,5 @@
 # project-75
+#This can allow you to use your webcam on your dekstop
 import cv2
 import numpy as np
 
